@@ -1,2 +1,6 @@
-1.decide which buisness to order from
-2.decide which type of pizza to order
+1. Decide which buisness to order from
+2. Decide which type of pizza to order
+3. Call the pizza place
+4. Order the pizza
+5a. pay on phone
+5b. pay in person
